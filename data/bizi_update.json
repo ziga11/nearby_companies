@@ -1,0 +1,4972 @@
+{
+    "ADECCO H.R. d.o.o.": {
+        "lokacija": "Ameriška ulica    8",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Akrapovič d.d.": {
+        "lokacija": "Malo Hudo    8A",
+        "pošta": "1295 Ivančna Gorica",
+        "dejavnost skd": "Proizvodnja drugih delov in opreme za motorna vozila",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            45.9395841,
+            14.8047626
+        ]
+    },
+    "BSH HIŠNI APARATI d.o.o. Nazarje": {
+        "lokacija": "Savinjska cesta   30",
+        "pošta": "3331 Nazarje",
+        "dejavnost skd": "Proizvodnja električnih gospodinjskih naprav",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.3179494,
+            14.9470385
+        ]
+    },
+    "DARS d.d.": {
+        "lokacija": "Ulica XIV. divizije    4",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Spremljajoče storitvene dejavnosti v kopenskem prometu",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "ENGROTUŠ d.o.o.": {
+        "lokacija": "Cesta v Trnovlje   10A",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "Gorenje, d.o.o.": {
+        "lokacija": "Partizanska cesta   12",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Proizvodnja električnih gospodinjskih naprav",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "HELLA SATURNUS SLOVENIJA d.o.o.": {
+        "lokacija": "Letališka cesta   17",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja naprav in opreme za razsvetljavo",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HIDRIA d.o.o.": {
+        "lokacija": "Spodnja Kanomlja   23",
+        "pošta": "5281 Spodnja Idrija",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "Nad 1000 zaposlenih"
+    },
+    "HIT d.d. Nova Gorica": {
+        "lokacija": "Delpinova ulica    7A",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Dejavnost igralnic",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "HOFER trgovina d.o.o.": {
+        "lokacija": "Kranjska cesta    1",
+        "pošta": "1225 Lukovica",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.1823986,
+            14.7899377
+        ]
+    },
+    "IJS": {
+        "lokacija": "Jamova cesta   39",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KARIERA d.o.o.": {
+        "lokacija": "Dunajska cesta  165",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KRKA, d.d., Novo mesto": {
+        "lokacija": "Šmarješka cesta    6",
+        "pošta": "8501 Novo mesto",
+        "dejavnost skd": "Proizvodnja farmacevtskih preparatov",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "LIDL Slovenija d.o.o. k.d.": {
+        "lokacija": "Pod lipami    1",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "Nad 1000 zaposlenih"
+    },
+    "LTH Castings d.o.o.": {
+        "lokacija": "Vincarje    2",
+        "pošta": "4220 Škofja Loka",
+        "dejavnost skd": "Litje lahkih kovin",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.1671294,
+            14.3058337
+        ]
+    },
+    "Lek d.d.": {
+        "lokacija": "Verovškova ulica   57",
+        "pošta": "1526 Ljubljana",
+        "dejavnost skd": "Proizvodnja farmacevtskih preparatov",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MERKUR trgovina, d.o.o.": {
+        "lokacija": "Cesta na Okroglo    7",
+        "pošta": "4202 Naklo",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z gradbenim materialom, kovinskimi izdelki, barvami in steklom",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.2718663,
+            14.3156932
+        ]
+    },
+    "Mercator d.o.o.": {
+        "lokacija": "Dunajska cesta  107",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Novartis d.o.o.": {
+        "lokacija": "Verovškova ulica   57",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja farmacevtskih preparatov",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PERUTNINA PTUJ d.o.o.": {
+        "lokacija": "Potrčeva cesta   10",
+        "pošta": "2250 Ptuj",
+        "dejavnost skd": "Proizvodnja perutninskega mesa",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.4199535,
+            15.8696884
+        ]
+    },
+    "PETROL d.d., Ljubljana": {
+        "lokacija": "Dunajska cesta   50",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno z lastnimi motornimi gorivi",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "POŠTA SLOVENIJE d.o.o.": {
+        "lokacija": "Slomškov trg   10",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Izvajanje univerzalne poštne storitve",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "RTV SLOVENIJA": {
+        "lokacija": "Kolodvorska ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Televizijska dejavnost",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SIJ ACRONI d.o.o.": {
+        "lokacija": "Cesta Borisa Kidriča   44",
+        "pošta": "4270 Jesenice",
+        "dejavnost skd": "Proizvodnja surovega železa, jekla, ferozlitin",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.4367047,
+            14.0526057
+        ]
+    },
+    "SPAR SLOVENIJA d.o.o.": {
+        "lokacija": "Letališka cesta   26",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Sava Turizem d.d.": {
+        "lokacija": "Dunajska cesta  152",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SŽ - Infrastruktura, d.o.o.": {
+        "lokacija": "Kolodvorska ulica   11",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Upravljanje nepremičnin za plačilo ali po pogodbi",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TELEKOM SLOVENIJE, d.d.": {
+        "lokacija": "Cigaletova ulica   15",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Telekomunikacijske dejavnosti po vodih",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "UKC Ljubljana": {
+        "lokacija": "Zaloška cesta    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Bolnišnična zdravstvena dejavnost",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "UNIOR d.d.": {
+        "lokacija": "Kovaška cesta   10",
+        "pošta": "3214 Zreče",
+        "dejavnost skd": "Kovanje, stiskanje, vtiskovanje in valjanje kovin; prašna metalurgija",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.3696591,
+            15.3918526
+        ]
+    },
+    "WORKFORCE d.o.o.": {
+        "lokacija": "Verovškova ulica   55",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ZDRAVSTVENI DOM LJUBLJANA": {
+        "lokacija": "Metelkova ulica    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Splošna zunajbolnišnična zdravstvena dejavnost",
+        "št. zaposlenih": "Nad 1000 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "A1 Slovenija, d. d.": {
+        "lokacija": "Ameriška ulica    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Brezžične telekomunikacijske dejavnosti",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "AKTIVA VAROVANJE d.d.": {
+        "lokacija": "Kraljeviča Marka ulica    5",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Varovanje",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "AKTIVA ČIŠČENJE d.o.o.": {
+        "lokacija": "Ljubljanska cesta   12F",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Splošno čiščenje stavb",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "ALPE-PANON d.o.o.": {
+        "lokacija": "Dunajska cesta  155",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Okrepčevalnice in podobni obrati",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ARCONT d.d.": {
+        "lokacija": "Ljutomerska cesta   29",
+        "pošta": "9250 Gornja Radgona",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.6767099,
+            15.9910846
+        ]
+    },
+    "BTC d.d.": {
+        "lokacija": "Ameriška ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Pretovarjanje",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "CGP, d.d.": {
+        "lokacija": "Ljubljanska cesta   36",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Gradnja stanovanjskih in nestanovanjskih stavb",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "CINKARNA Celje, d.d.": {
+        "lokacija": "Kidričeva ulica   26",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Proizvodnja barvil in pigmentov",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "DANFOSS TRATA, d.o.o.": {
+        "lokacija": "Ulica Jožeta Jame   16",
+        "pošta": "1210 LJUBLJANA-ŠENTVID",
+        "dejavnost skd": "Montaža industrijskih strojev in naprav",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "DEOS, d.o.o.": {
+        "lokacija": "Gmajna    7",
+        "pošta": "1357 Notranje Gorice",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.9865292,
+            14.3999988
+        ]
+    },
+    "EUROSPIN EKO, d.o.o.": {
+        "lokacija": "Renški Podkraj   64",
+        "pošta": "5292 Renče",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.88992469999999,
+            13.6699206
+        ]
+    },
+    "GEN-I, d.o.o.": {
+        "lokacija": "Vrbina   17",
+        "pošta": "8270 Krško",
+        "dejavnost skd": "Trgovanje z električno energijo",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.95899780000001,
+            15.4921312
+        ]
+    },
+    "Helios TBLUS d.o.o.": {
+        "lokacija": "Količevo   65",
+        "pošta": "1230 Domžale",
+        "dejavnost skd": "Proizvodnja barv, lakov in podobnih premazov, tiskarskih barv in kitov",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.1419417,
+            14.5944171
+        ]
+    },
+    "INCOM d.o.o.": {
+        "lokacija": "Tovarniška cesta    6A",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja sladoleda",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "INTEREUROPA d.d.": {
+        "lokacija": "Vojkovo nabrežje   32",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Špedicija in druge spremljajoče prometne dejavnosti",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "ISKRA MEHANIZMI, d.o.o.": {
+        "lokacija": "Zgornji Brnik  400",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Proizvodnja drugih električnih naprav",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "ISKRA, d.o.o.": {
+        "lokacija": "Stegne   21",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja naprav za distribucijo in krmiljenje elektrike",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ISKRAEMECO, d.d.": {
+        "lokacija": "Savska loka    4",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Proizvodnja merilnih, preizkuševalnih in navigacijskih instrumentov in naprav",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "JAGROS, d.o.o.": {
+        "lokacija": "Prvomajska ulica   29",
+        "pošta": "3250 Rogaška Slatina",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.2331941,
+            15.6378802
+        ]
+    },
+    "KOLEKTOR ETRA d.o.o.": {
+        "lokacija": "Šlandrova ulica   10",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "KOLEKTOR SIKOM d.o.o.": {
+        "lokacija": "Vojkova ulica   10",
+        "pošta": "5280 Idrija",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.00294539999999,
+            14.0278459
+        ]
+    },
+    "KOSTAK d.d.": {
+        "lokacija": "Leskovška cesta    2A",
+        "pošta": "8270 Krško",
+        "dejavnost skd": "Zbiranje, prečiščevanje in distribucija vode",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.95899780000001,
+            15.4921312
+        ]
+    },
+    "Kontron, d.o.o.": {
+        "lokacija": "Ljubljanska cesta   24A",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Svetovanje o računalniških napravah in programih",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "LES-MMS d.o.o.": {
+        "lokacija": "Cesta na Bokalce   40",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pohištvom, svetili in drugje nerazvrščenimi predmeti za gospodinjstvo",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "LIVAR, d.d.": {
+        "lokacija": "Ljubljanska cesta   43",
+        "pošta": "1295 Ivančna Gorica",
+        "dejavnost skd": "Litje železa",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.9395841,
+            14.8047626
+        ]
+    },
+    "LJUBLJANSKE MLEKARNE d.o.o.": {
+        "lokacija": "Tolstojeva ulica   63",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Mlekarstvo in sirarstvo",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MLINOTEST d.d.": {
+        "lokacija": "Tovarniška cesta   14",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja kruha, svežega peciva in slaščic",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "MUELLER DROGERIJA d.o.o.": {
+        "lokacija": "Čopova ulica   40",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NOMAGO d.o.o.": {
+        "lokacija": "Vošnjakova ulica    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Medkrajevni in drug cestni potniški promet",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "OKROŽNO SODIŠČE V LJUBLJANI": {
+        "lokacija": "Tavčarjeva ulica    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Sodstvo",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SALOMON d.o.o. Ljubljana": {
+        "lokacija": "Vevška cesta   52",
+        "pošta": "1260 LJUBLJANA-POLJE",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "SIJ METAL RAVNE d.o.o.": {
+        "lokacija": "Koroška cesta   14",
+        "pošta": "2390 Ravne na Koroškem",
+        "dejavnost skd": "Proizvodnja surovega železa, jekla, ferozlitin",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.5448323,
+            14.9660445
+        ]
+    },
+    "SILIKO d.o.o.": {
+        "lokacija": "Tržaška cesta   31",
+        "pošta": "1360 Vrhnika",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.966583,
+            14.2973873
+        ]
+    },
+    "SINTAL d.o.o.": {
+        "lokacija": "Litostrojska cesta   38",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Varovanje",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "STEKLARNA HRASTNIK d.o.o.": {
+        "lokacija": "Cesta 1. maja   14",
+        "pošta": "1430 Hrastnik",
+        "dejavnost skd": "Proizvodnja votlega stekla",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.1417288,
+            15.0844894
+        ]
+    },
+    "Sovita d.o.o.": {
+        "lokacija": "Tehnološki park   22A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TAB d.d.": {
+        "lokacija": "Polena    6",
+        "pošta": "2392 Mežica",
+        "dejavnost skd": "Proizvodnja baterij in akumulatorjev",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.5214145,
+            14.8523952
+        ]
+    },
+    "TERME KRKA, d.o.o., Novo mesto": {
+        "lokacija": "Novi trg    1",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "TRENKWALDER, d.o.o.": {
+        "lokacija": "Ulica Ambrožiča Novljana    5",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Telemach Slovenija d.o.o.": {
+        "lokacija": "Brnčičeva ulica   49A",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Brezžične telekomunikacijske dejavnosti",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "UL MF": {
+        "lokacija": "Vrazov trg    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Visokošolsko izobraževanje",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "UPK Ljubljana": {
+        "lokacija": "Chengdujska cesta   45",
+        "pošta": "1260 LJUBLJANA-POLJE",
+        "dejavnost skd": "Bolnišnična zdravstvena dejavnost",
+        "št. zaposlenih": "500 do 999 zaposlenih"
+    },
+    "WEILER Abrasives d.o.o.": {
+        "lokacija": "Titova cesta   60",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Proizvodnja brusilnih sredstev",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "ZZZS": {
+        "lokacija": "Miklošičeva cesta   24",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost obvezne socialne varnosti",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "dm drogerie markt d.o.o.": {
+        "lokacija": "Litostrojska cesta   48",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druga trgovina na drobno v nespecializiranih prodajalnah",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ŽITO d.o.o.": {
+        "lokacija": "Moskovska ulica    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja kruha, svežega peciva in slaščic",
+        "št. zaposlenih": "500 do 999 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Alpacem Cement, d.d.": {
+        "lokacija": "Anhovo    1",
+        "pošta": "5210 Deskle",
+        "dejavnost skd": "Proizvodnja cementa",
+        "št. zaposlenih": "200 do 249 zaposlenih"
+    },
+    "BANKART d.o.o., Ljubljana": {
+        "lokacija": "Celovška cesta  150",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Obdelava podatkov in s tem povezane dejavnosti",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "COSYLAB d.d.": {
+        "lokacija": "Gerbičeva ulica   64",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DIFA d.o.o.": {
+        "lokacija": "Kidričeva cesta   91",
+        "pošta": "4220 Škofja Loka",
+        "dejavnost skd": "Litje drugih neželeznih kovin",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.1671294,
+            14.3058337
+        ]
+    },
+    "DZS, d.d.": {
+        "lokacija": "Dalmatinova ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s knjigami",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GOSTOL-GOPAN d.o.o. Nova Gorica": {
+        "lokacija": "Prvomajska ulica   37A",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Proizvodnja strojev za živilsko in tobačno industrijo",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "INTEC MKD, d.o.o.": {
+        "lokacija": "Loka  122",
+        "pošta": "4290 Tržič",
+        "dejavnost skd": "Mehanska obdelava kovin",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.3593514,
+            14.3006623
+        ]
+    },
+    "JYSK d.o.o.": {
+        "lokacija": "Tovarniška cesta   10A",
+        "pošta": "8250 Brežice",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pohištvom, svetili in drugje nerazvrščenimi predmeti za gospodinjstvo",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            45.9088102,
+            15.5964652
+        ]
+    },
+    "KZPS, d.o.o.": {
+        "lokacija": "Zgornji Brnik  130N",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Spremljajoče storitvene dejavnosti v zračnem prometu",
+        "št. zaposlenih": "200 do 249 zaposlenih"
+    },
+    "LITOSTROJ POWER d.o.o.": {
+        "lokacija": "Litostrojska cesta   50",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja motorjev in turbin, razen za letala in motorna vozila",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MAGNETI LJUBLJANA, d.d., Ljubljana": {
+        "lokacija": "Stegne   37",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MINERAL d.o.o.": {
+        "lokacija": "Podpeč   46",
+        "pošta": "1352 Preserje",
+        "dejavnost skd": "Obdelava naravnega kamna",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            45.9560556,
+            14.4178663
+        ]
+    },
+    "NIKO, d.o.o., Železniki": {
+        "lokacija": "Otoki   16",
+        "pošta": "4228 Železniki",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.22544,
+            14.1692478
+        ]
+    },
+    "ORBICO d.o.o.": {
+        "lokacija": "Verovškova ulica   72",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PAPIRNICA VEVČE d.o.o.": {
+        "lokacija": "Papirniška pot   25",
+        "pošta": "1261 LJUBLJANA-DOBRUNJE",
+        "dejavnost skd": "Proizvodnja papirja in kartona",
+        "št. zaposlenih": "200 do 249 zaposlenih"
+    },
+    "PRIGO, d.o.o., Brezovica": {
+        "lokacija": "Podpeška cesta   10",
+        "pošta": "1351 Brezovica pri Ljubljani",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0240606,
+            14.4174248
+        ]
+    },
+    "REFLEX Gornja Radgona d.o.o.": {
+        "lokacija": "Podgrad    4",
+        "pošta": "9250 Gornja Radgona",
+        "dejavnost skd": "Druga zaključna gradbena dela",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.6767099,
+            15.9910846
+        ]
+    },
+    "SAUBERMACHER SLOVENIJA d.o.o.": {
+        "lokacija": "Ulica Matije Gubca    2",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Zbiranje in odvoz nenevarnih odpadkov",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "SRC d.o.o.": {
+        "lokacija": "Tržaška cesta  116",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Svetovanje o računalniških napravah in programih",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "XAL SVETILA d.o.o.": {
+        "lokacija": "Nemčavci   75",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Proizvodnja naprav in opreme za razsvetljavo",
+        "št. zaposlenih": "200 do 249 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "AKIDS d.o.o.": {
+        "lokacija": "Šmartinska cesta  130",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z igračami in rekviziti za igre in zabavo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "BARTOG d.o.o. Trebnje": {
+        "lokacija": "Obrtniška ulica   18",
+        "pošta": "8210 Trebnje",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9081708,
+            15.0125985
+        ]
+    },
+    "BAUMULLER DRAVINJA, d.o.o.": {
+        "lokacija": "Delavska cesta   10",
+        "pošta": "3210 Slovenske Konjice",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3369191,
+            15.4214708
+        ]
+    },
+    "BELIMED d.o.o.": {
+        "lokacija": "Taborska cesta   38E",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Proizvodnja drugih strojev in naprav za splošne namene",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "BOSCH REXROTH d.o.o.": {
+        "lokacija": "Zgornji Brnik  410",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "BRINOX d.o.o.": {
+        "lokacija": "Sora   21",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Proizvodnja strojev za druge posebne namene",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "Big Bang, d.o.o.": {
+        "lokacija": "Madžarska ulica   12",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z avdio in video napravami",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "CELJSKE MESNINE d.o.o.": {
+        "lokacija": "Cesta v Trnovlje   17",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Proizvodnja mesnih izdelkov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "CETIS d.d.": {
+        "lokacija": "Čopova ulica   24",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Drugo tiskanje",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "CP PTUJ d.d.": {
+        "lokacija": "Zagrebška cesta   49A",
+        "pošta": "2250 Ptuj",
+        "dejavnost skd": "Gradnja cest",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.4199535,
+            15.8696884
+        ]
+    },
+    "CPK d.d.": {
+        "lokacija": "ULICA 15. MAJA   14",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Gradnja cest",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "Comtrade d.o.o.": {
+        "lokacija": "Letališka cesta   29B",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ContiTech Slovenija, d.o.o.": {
+        "lokacija": "Škofjeloška cesta    6",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "DAVIDOV HRAM d.o.o. Ljubno": {
+        "lokacija": "Loke   37",
+        "pošta": "3333 Ljubno ob Savinji",
+        "dejavnost skd": "Trgovina na debelo s pijačami",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3443125,
+            14.8335492
+        ]
+    },
+    "DEICHMANN d.o.o.": {
+        "lokacija": "Dunajska cesta  151",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z obutvijo in usnjenimi izdelki",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DRI upravljanje investicij, d.o.o.": {
+        "lokacija": "Kotnikova ulica   40",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Don Don d.o.o.": {
+        "lokacija": "Gasilska cesta    2",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Proizvodnja kruha, svežega peciva in slaščic",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "ELEKTRO PRIMORSKA d.d.": {
+        "lokacija": "Erjavčeva ulica   22",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Distribucija električne energije",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "EUROTON, d.o.o.": {
+        "lokacija": "Tržaška cesta  383",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "FRUCTAL d.o.o.": {
+        "lokacija": "Tovarniška cesta    7",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja sadnih in zelenjavnih sokov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "Fraport Slovenija, d.o.o.": {
+        "lokacija": "Zgornji Brnik  130A",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Spremljajoče storitvene dejavnosti v zračnem prometu",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "GORENJSKA GRADBENA DRUŽBA d.d.": {
+        "lokacija": "Jezerska cesta   20",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Gradnja cest",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "GVO, d.o.o.": {
+        "lokacija": "Cigaletova ulica   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druga specializirana gradbena dela",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HARVEY NORMAN TRADING d.o.o.": {
+        "lokacija": "Letališka cesta    3D",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z električnimi gospodinjskimi napravami",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HENKEL MARIBOR d.o.o.": {
+        "lokacija": "Industrijska ulica   23",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Proizvodnja parfumov in toaletnih sredstev",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "HERVIS d.o.o.": {
+        "lokacija": "Moskovska ulica    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s športno opremo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Herz d.o.o.": {
+        "lokacija": "Grmaška cesta    3",
+        "pošta": "1275 Šmartno pri Litiji",
+        "dejavnost skd": "Proizvodnja pip in ventilov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0457437,
+            14.8410058
+        ]
+    },
+    "Hisense Europe Electronics, d.o.o.": {
+        "lokacija": "Partizanska cesta   12H",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Proizvodnja elektronskih naprav za široko rabo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "IKEA Slovenija, d.o.o.": {
+        "lokacija": "Švedska ulica    6",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pohištvom, svetili in drugje nerazvrščenimi predmeti za gospodinjstvo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "INPOS, d.o.o., Celje": {
+        "lokacija": "Opekarniška cesta    2",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Trgovina na debelo s kovinskimi proizvodi, inštalacijskim materialom, napravami za ogrevanje",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "ISOKON, d.o.o., Slovenske Konjice": {
+        "lokacija": "Industrijska cesta   16",
+        "pošta": "3210 Slovenske Konjice",
+        "dejavnost skd": "Proizvodnja plošč, folij, cevi in profilov iz plastičnih mas",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3369191,
+            15.4214708
+        ]
+    },
+    "JATA EMONA d.o.o.": {
+        "lokacija": "Agrokombinatska cesta   84",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja krmil",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "JUB d.o.o.": {
+        "lokacija": "Dol pri Ljubljani   28",
+        "pošta": "1262 Dol pri Ljubljani",
+        "dejavnost skd": "Proizvodnja barv, lakov in podobnih premazov, tiskarskih barv in kitov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0884386,
+            14.6424792
+        ]
+    },
+    "KI": {
+        "lokacija": "Hajdrihova ulica   19",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KIK TEXTILIEN UND NON-FOOD d.o.o.": {
+        "lokacija": "Ruska ulica    6",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s tekstilom",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "KLS LJUBNO d.o.o.": {
+        "lokacija": "Loke   36",
+        "pošta": "3333 Ljubno ob Savinji",
+        "dejavnost skd": "Proizvodnja drugih delov in opreme za motorna vozila",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3443125,
+            14.8335492
+        ]
+    },
+    "KOBAL TRANSPORTI d.o.o.": {
+        "lokacija": "Letališka cesta   33E",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KOLEKTOR ATP d.o.o.": {
+        "lokacija": "Industrijska cesta    2",
+        "pošta": "6230 Postojna",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.7749704,
+            14.2133245
+        ]
+    },
+    "KOLEKTOR CPG d.o.o.": {
+        "lokacija": "Industrijska cesta    2",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Gradnja cest",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "Lekarna Ljubljana": {
+        "lokacija": "Komenskega ulica   11",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s farmacevtskimi izdelki",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MINISTRSTVO ZA FINANCE": {
+        "lokacija": "Župančičeva ulica    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Splošna dejavnost javne uprave",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MK Trgovina d.o.o.": {
+        "lokacija": "Slovenska cesta   29",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s knjigami",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MM KOLIČEVO d.o.o.": {
+        "lokacija": "Papirniška cesta    1",
+        "pošta": "1230 Domžale",
+        "dejavnost skd": "Proizvodnja papirja in kartona",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.1419417,
+            14.5944171
+        ]
+    },
+    "Mercator IP, d.o.o.": {
+        "lokacija": "Cesta na Okroglo    3",
+        "pošta": "4202 Naklo",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.2718663,
+            14.3156932
+        ]
+    },
+    "OBI d.o.o.": {
+        "lokacija": "Jurčkova cesta  226",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pohištvom, svetili in drugje nerazvrščenimi predmeti za gospodinjstvo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "OMEGA AIR d.o.o. Ljubljana": {
+        "lokacija": "Cesta Dolomitskega odreda   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja črpalk in kompresorjev",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PEKARNA PEČJAK d.o.o.": {
+        "lokacija": "Dolenjska cesta  442",
+        "pošta": "1291 Škofljica",
+        "dejavnost skd": "Proizvodnja kruha, svežega peciva in slaščic",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.98596510000001,
+            14.5721903
+        ]
+    },
+    "PIVKA d.d.": {
+        "lokacija": "Kal    1",
+        "pošta": "6257 Pivka",
+        "dejavnost skd": "Proizvodnja perutninskega mesa",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.6825301,
+            14.1960582
+        ]
+    },
+    "PLASTIKA SKAZA d.o.o.": {
+        "lokacija": "Selo   22",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "POMGRAD d.d.": {
+        "lokacija": "Bakovska ulica   31",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Gradnja stanovanjskih in nestanovanjskih stavb",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "PORSCHE INTER AUTO d.o.o.": {
+        "lokacija": "Bravničarjeva ulica    5",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PRO PLUS d.o.o.": {
+        "lokacija": "Kranjčeva ulica   26",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Produkcija filmov, video filmov, televizijskih oddaj",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PROHUMAN d.o.o.": {
+        "lokacija": "Cesta 24. junija   25",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "PURFLUX FILTRATION d.o.o.": {
+        "lokacija": "Ladja   11",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Proizvodnja drugih delov in opreme za motorna vozila",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "Paloma d.d.": {
+        "lokacija": "Sladki Vrh    1",
+        "pošta": "2214 Sladki Vrh",
+        "dejavnost skd": "Proizvodnja gospodinjskih, higienskih in toaletnih potrebščin iz papirja",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "Panvita MIR d.d": {
+        "lokacija": "Ljutomerska cesta   28A",
+        "pošta": "9250 Gornja Radgona",
+        "dejavnost skd": "Proizvodnja mesa, razen perutninskega",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.6767099,
+            15.9910846
+        ]
+    },
+    "Pivovarna Laško Union d.o.o.": {
+        "lokacija": "Pivovarniška ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja piva",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Poclain Hydraulics d.o.o.": {
+        "lokacija": "Industrijska ulica    2",
+        "pošta": "4226 Žiri",
+        "dejavnost skd": "Proizvodnja naprav za fluidno tehniko",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0513094,
+            14.111887
+        ]
+    },
+    "RUDNIDIS, d.o.o.": {
+        "lokacija": "Jurčkova cesta  225",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v nespecializiranih prodajalnah, pretežno z živili",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Raycap d.o.o.": {
+        "lokacija": "Pod hrasti    7",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Proizvodnja elektronskih komponent",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "SIBO G. d.o.o.": {
+        "lokacija": "Kidričeva cesta   99",
+        "pošta": "4220 Škofja Loka",
+        "dejavnost skd": "Proizvodnja embalaže iz plastičnih mas",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.1671294,
+            14.3058337
+        ]
+    },
+    "SIP, d.d. Šempeter v Savinjski dolini": {
+        "lokacija": "Juhartova ulica    2",
+        "pošta": "3311 Šempeter v Savinjski dolini",
+        "dejavnost skd": "Proizvodnja kmetijskih in gozdarskih strojev",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.256183,
+            15.117908
+        ]
+    },
+    "SLOREST d.o.o.": {
+        "lokacija": "Verovškova ulica   55A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SiDG d. o. o.": {
+        "lokacija": "Rožna ulica   39",
+        "pošta": "1330 Kočevje",
+        "dejavnost skd": "Gojenje gozdov in druge gozdarske dejavnosti",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.6409009,
+            14.8633128
+        ]
+    },
+    "Surovina d.o.o.": {
+        "lokacija": "Ulica Vita Kraigherja    5",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Pridobivanje sekundarnih surovin iz ostankov in odpadkov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "SŽ, d.o.o.": {
+        "lokacija": "Kolodvorska ulica   11",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost uprav podjetij",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "T - 2 d.o.o.": {
+        "lokacija": "Verovškova ulica   64A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Telekomunikacijske dejavnosti po vodih",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TEDi BETRIEBS d.o.o.": {
+        "lokacija": "Ptujska cesta  190",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Druga trgovina na drobno v nespecializiranih prodajalnah",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "TERME OLIMIA d.d.": {
+        "lokacija": "Zdraviliška cesta   24",
+        "pošta": "3254 Podčetrtek",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "TKK d.o.o.": {
+        "lokacija": "Srpenica    1",
+        "pošta": "5224 Srpenica",
+        "dejavnost skd": "Proizvodnja barv, lakov in podobnih premazov, tiskarskih barv in kitov",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "TOMPLAST, d.o.o.": {
+        "lokacija": "Cesta na Gradec    5",
+        "pošta": "8233 Mirna",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "TOSAMA d.o.o.": {
+        "lokacija": "Šaranovičeva cesta   35",
+        "pošta": "1230 Domžale",
+        "dejavnost skd": "Proizvodnja gospodinjskih, higienskih in toaletnih potrebščin iz papirja",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.1419417,
+            14.5944171
+        ]
+    },
+    "TRIMO d.o.o.": {
+        "lokacija": "Prijateljeva cesta   12",
+        "pošta": "8210 Trebnje",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.9081708,
+            15.0125985
+        ]
+    },
+    "Titus d.o.o. Dekani": {
+        "lokacija": "Dekani    5",
+        "pošta": "6271 Dekani",
+        "dejavnost skd": "Proizvodnja ključavnic, okovja",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            45.549036,
+            13.8125991
+        ]
+    },
+    "Trelleborg Slovenija, d.o.o.": {
+        "lokacija": "Škofjeloška cesta    6",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "UL FS": {
+        "lokacija": "Aškerčeva cesta    6",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Visokošolsko izobraževanje",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ZLATARNA CELJE d.o.o.": {
+        "lokacija": "Kersnikova ulica   19",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Proizvodnja nakita in podobnih izdelkov",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "ZRC SAZU": {
+        "lokacija": "Novi trg    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na področju družboslovja in humanistike",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ŠTORE STEEL d.o.o.": {
+        "lokacija": "Železarska cesta    3",
+        "pošta": "3220 Štore",
+        "dejavnost skd": "Proizvodnja surovega železa, jekla, ferozlitin",
+        "št. zaposlenih": "250 do 499 zaposlenih"
+    },
+    "ŽELVA d.o.o.": {
+        "lokacija": "Ulica Alme Sodnik    6",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo socialno varstvo z nastanitvijo",
+        "št. zaposlenih": "250 do 499 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ACRON d.o.o.": {
+        "lokacija": "Pod Gradom    1",
+        "pošta": "2380 Slovenj Gradec",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s knjigami",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.5075851,
+            15.0768162
+        ]
+    },
+    "AKTIVA TS d.o.o.": {
+        "lokacija": "Ljubljanska cesta   12F",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Splošno čiščenje stavb",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "ATLANTIC TRADE d.o.o., Ljubljana": {
+        "lokacija": "Kolinska ulica    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z drugimi živili, tudi z ribami, raki, mehkužci",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "CUDV Radovljica": {
+        "lokacija": "Cesta na Jezerca   17",
+        "pošta": "4240 Radovljica",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo duševno prizadetih, duševno obolelih in zasvojenih oseb",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.3437361,
+            14.1740042
+        ]
+    },
+    "DEWESoft d.o.o.": {
+        "lokacija": "Gabrsko   11A",
+        "pošta": "1420 Trbovlje",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1503563,
+            15.0453138
+        ]
+    },
+    "DOBROVITA d.o.o.": {
+        "lokacija": "Tbilisijska ulica   87",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Geofizikalne meritve, kartiranje",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DOM-TITAN d.d.": {
+        "lokacija": "Kovinarska cesta   28",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Proizvodnja ključavnic, okovja",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "DONIT TESNIT, d.o.o.": {
+        "lokacija": "Cesta komandanta Staneta   38",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Proizvodnja drugih kemičnih izdelkov",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "EGP d.o.o.": {
+        "lokacija": "Kidričeva cesta   82",
+        "pošta": "4220 Škofja Loka",
+        "dejavnost skd": "Proizvodnja valovitega papirja in kartona ter papirne in kartonske embalaže",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1671294,
+            14.3058337
+        ]
+    },
+    "FLUIDMASTER d.o.o.": {
+        "lokacija": "Industrijska cesta    2",
+        "pošta": "6230 Postojna",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.7749704,
+            14.2133245
+        ]
+    },
+    "GARNOL, d.o.o.": {
+        "lokacija": "Verovškova ulica   64A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Gradnja objektov oskrbne infrastrukture za elektriko in telekomunikacije",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Gorenje Orodjarna, d.o.o.": {
+        "lokacija": "Partizanska cesta   12",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Proizvodnja orodja za stroje",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "H & M Hennes & Mauritz d.o.o.": {
+        "lokacija": "Ameriška ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HIT Alpinea d.o.o.": {
+        "lokacija": "Borovška cesta   99",
+        "pošta": "4280 Kranjska Gora",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "HS PLUS d.o.o.": {
+        "lokacija": "Gmajna    8",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Trgovina na drobno po pošti ali po internetu",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "IMP PROMONT d.o.o.": {
+        "lokacija": "Pot k sejmišču   30A",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "INTRA LIGHTING d.o.o.": {
+        "lokacija": "Vrtojbenska cesta   50",
+        "pošta": "5290 Šempeter pri Gorici",
+        "dejavnost skd": "Proizvodnja naprav in opreme za razsvetljavo",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "ISKRA PIO, d.o.o.": {
+        "lokacija": "Trubarjeva cesta    5",
+        "pošta": "8310 Šentjernej",
+        "dejavnost skd": "Proizvodnja strojev za druge posebne namene",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "ITX S, d.o.o.": {
+        "lokacija": "Ameriška ulica    8",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KOLEKTOR KFH d.o.o.": {
+        "lokacija": "Vojkova ulica   10",
+        "pošta": "5280 Idrija",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.00294539999999,
+            14.0278459
+        ]
+    },
+    "KOLEKTOR MOBILITY d.o.o.": {
+        "lokacija": "Vojkova ulica   10",
+        "pošta": "5280 Idrija",
+        "dejavnost skd": "Dejavnost uprav podjetij",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.00294539999999,
+            14.0278459
+        ]
+    },
+    "Kuehne + Nagel d.o.o.": {
+        "lokacija": "Zgornji Brnik  300",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Spremljajoče storitvene dejavnosti v kopenskem prometu",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "LESONIT d.o.o.": {
+        "lokacija": "Ulica Nikola Tesla   11",
+        "pošta": "6250 Ilirska Bistrica",
+        "dejavnost skd": "Proizvodnja furnirja in plošč na osnovi lesa",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.570099,
+            14.2418616
+        ]
+    },
+    "LISCA d.o.o.": {
+        "lokacija": "Prešernova ulica    4",
+        "pošta": "8290 Sevnica",
+        "dejavnost skd": "Proizvodnja spodnjega perila",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0129508,
+            15.2979868
+        ]
+    },
+    "LPP Fashion d.o.o.": {
+        "lokacija": "Verovškova ulica   55A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MANPOWER d.o.o.": {
+        "lokacija": "Vilharjeva cesta   46",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "METREL Mehanika d.o.o.": {
+        "lokacija": "Ljubljanska cesta   80",
+        "pošta": "1354 Horjul",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "MK Založba d.d.": {
+        "lokacija": "Slovenska cesta   29",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Izdajanje knjig",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NIB": {
+        "lokacija": "Večna pot  121",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NIVO EKO, d.o.o.": {
+        "lokacija": "Ulica XIV. divizije   10",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Gradnja vodnih objektov",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "NKD d.o.o.": {
+        "lokacija": "Ulica XIV. divizije   12",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "OMCO METALS SLOVENIA d.o.o.": {
+        "lokacija": "Cesta Žalskega tabora   10",
+        "pošta": "3310 Žalec",
+        "dejavnost skd": "Litje železa",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.251984,
+            15.1650282
+        ]
+    },
+    "PET NETWORK SI d.o.o.": {
+        "lokacija": "Celovška cesta  258",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druga trgovina na drobno v drugih specializiranih prodajalnah",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PIPISTREL VERTICAL SOLUTIONS d.o.o.": {
+        "lokacija": "Vipavska cesta    2",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja zračnih in vesoljskih plovil",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "POSTOJNSKA JAMA, d.d.": {
+        "lokacija": "Jamska cesta   30",
+        "pošta": "6230 Postojna",
+        "dejavnost skd": "Rezervacije in druge s potovanji povezane dejavnosti",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.7749704,
+            14.2133245
+        ]
+    },
+    "PSIHIATRIČNA BOLNIŠNICA BEGUNJE": {
+        "lokacija": "Begunje na Gorenjskem   55",
+        "pošta": "4275 Begunje na Gorenjskem",
+        "dejavnost skd": "Bolnišnična zdravstvena dejavnost",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.376736,
+            14.2020202
+        ]
+    },
+    "ROSENBAUER, d.o.o.": {
+        "lokacija": "Ljutomerska cesta    6",
+        "pošta": "9250 Gornja Radgona",
+        "dejavnost skd": "Proizvodnja motornih vozil",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.6767099,
+            15.9910846
+        ]
+    },
+    "ROTO - PAVLINJEK d.o.o.": {
+        "lokacija": "Gorička ulica  150",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Proizvodnja izdelkov iz plastičnih mas za gradbeništvo",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "S. OLIVER S L O d.o.o.": {
+        "lokacija": "Stritarjeva ulica    7",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z oblačili in obutvijo",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SALUS, Veletrgovina, d.o.o.": {
+        "lokacija": "Litostrojska cesta   46A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo s farmacevtskimi izdelki ter medicinskimi potrebščinami in materiali",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SIQ Ljubljana": {
+        "lokacija": "Mašera-Spasićeva ulica   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Tehnično preizkušanje in analiziranje",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SUMMIT LEASING SLOVENIJA d.o.o.": {
+        "lokacija": "Flajšmanova ulica    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost finančnega zakupa",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SVP AVIO d.o.o.": {
+        "lokacija": "Zapuže   10A",
+        "pošta": "4275 Begunje na Gorenjskem",
+        "dejavnost skd": "Proizvodnja čolnov za razvedrilo in šport",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.376736,
+            14.2020202
+        ]
+    },
+    "Salesianer Miettex Periteks d.o.o.": {
+        "lokacija": "Blatnica    2",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Dejavnost pralnic in kemičnih čistilnic",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "Swisspearl Slovenija d.o.o.": {
+        "lokacija": "Anhovo    9",
+        "pošta": "5210 Deskle",
+        "dejavnost skd": "Proizvodnja izdelkov iz vlaknatega cementa",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "T.L.Sirk d.o.o.": {
+        "lokacija": "Cesta dveh cesarjev  393",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TERME DOBRNA d.d.": {
+        "lokacija": "Dobrna   50",
+        "pošta": "3204 Dobrna",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "150 do 199 zaposlenih"
+    },
+    "TRANSPORT FINEC d.o.o.": {
+        "lokacija": "Taborska cesta   32A",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "VRHOVNO SODIŠČE REPUBLIKE SLOVENIJE": {
+        "lokacija": "Tavčarjeva ulica    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Sodstvo",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "WILLY STADLER d.o.o.": {
+        "lokacija": "Velika vas pri Krškem   62A",
+        "pošta": "8273 Leskovec pri Krškem",
+        "dejavnost skd": "Proizvodnja kovinskega stavbnega pohištva",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            45.9402271,
+            15.4773182
+        ]
+    },
+    "Wienerberger d.o.o.": {
+        "lokacija": "Boreci   49",
+        "pošta": "9242 Križevci pri Ljutomeru",
+        "dejavnost skd": "Proizvodnja strešnikov, opeke in drugih gradbenih izdelkov iz žgane gline",
+        "št. zaposlenih": "150 do 199 zaposlenih",
+        "Coordinates": [
+            46.56568850000001,
+            16.1369652
+        ]
+    },
+    "AGADO HR d.o.o.": {
+        "lokacija": "Dunajska cesta  106",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "AGROLIT d.o.o.": {
+        "lokacija": "Ljubljanska cesta   12B",
+        "pošta": "1270 Litija",
+        "dejavnost skd": "Proizvodnja razkužil, pesticidov in drugih agrokemičnih izdelkov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.05923050000001,
+            14.8266015
+        ]
+    },
+    "AHAC d.o.o.": {
+        "lokacija": "Cesta Kozjanskega odreda   21",
+        "pošta": "3230 Šentjur",
+        "dejavnost skd": "Nespecializirana trgovina na debelo z živili, pijačami, tobačnimi izdelki",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2157774,
+            15.3945807
+        ]
+    },
+    "ARC-Kranj, d.o.o.": {
+        "lokacija": "Hrastje   52K",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Trgovina na debelo s parfumi in kozmetiko",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "AVTOTEHNA VIS, d.o.o.": {
+        "lokacija": "Celovška cesta  228",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Albaugh TKI d.o.o.": {
+        "lokacija": "Grajski trg   21",
+        "pošta": "2327 Rače",
+        "dejavnost skd": "Proizvodnja razkužil, pesticidov in drugih agrokemičnih izdelkov",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "BISOL Group d.o.o.": {
+        "lokacija": "Latkova vas   59A",
+        "pošta": "3312 Prebold",
+        "dejavnost skd": "Proizvodnja elektronskih komponent",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2365972,
+            15.091648
+        ]
+    },
+    "BUSINESS SOLUTIONS d.o.o.": {
+        "lokacija": "Velika pot   15",
+        "pošta": "5250 Solkan",
+        "dejavnost skd": "Svetovanje o računalniških napravah in programih",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "CCC OBUTEV, d.o.o.": {
+        "lokacija": "Loška ulica   10",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z obutvijo in usnjenimi izdelki",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "DAIHEN VARSTROJ d.d.": {
+        "lokacija": "Industrijska ulica    4",
+        "pošta": "9220 Lendava - Lendva",
+        "dejavnost skd": "Proizvodnja strojev za oblikovanje in obdelavo kovin",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "DOM DR. JANKA BENEDIKA RADOVLJICA": {
+        "lokacija": "Šercerjeva ulica   35",
+        "pošta": "4240 Radovljica",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.3437361,
+            14.1740042
+        ]
+    },
+    "DOM POČITKA MENGEŠ": {
+        "lokacija": "Glavni trg   13",
+        "pošta": "1234 Mengeš",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.16591220000001,
+            14.5719694
+        ]
+    },
+    "DOREMA, d.o.o.": {
+        "lokacija": "Preserska cesta    3",
+        "pošta": "1235 Radomlje",
+        "dejavnost skd": "Proizvodnja končnih tekstilnih izdelkov, razen oblačil",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.1735773,
+            14.6113669
+        ]
+    },
+    "Decathlon Ljubljana, d.o.o.": {
+        "lokacija": "Moskovska ulica   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s športno opremo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ELMA TT d.o.o.": {
+        "lokacija": "Cesta 24. junija   23",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "G4S d.o.o.": {
+        "lokacija": "Bravničarjeva ulica   13",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Varovanje",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GEAPRODUKT d.o.o.": {
+        "lokacija": "Dolenjska cesta  242",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo s sadjem in zelenjavo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GeoZS": {
+        "lokacija": "Dimičeva ulica   14",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Gorenje GSI, d.o.o.": {
+        "lokacija": "Hrvaška ulica    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z električnimi gospodinjskimi napravami",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HIDROTEHNIK d.o.o.": {
+        "lokacija": "Slovenčeva ulica   97",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Gradnja vodnih objektov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HIŠA DARIL d.o.o.": {
+        "lokacija": "Slovenja vas   75",
+        "pošta": "2288 Hajdina",
+        "dejavnost skd": "Oblikovanje, aranžerstvo, dekoraterstvo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.4185014,
+            15.8244722
+        ]
+    },
+    "HOTEL PALACE PORTOROŽ d.o.o.": {
+        "lokacija": "Obala   45",
+        "pošta": "6320 Portorož - Portorose",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "INTER CARS INT d.o.o.": {
+        "lokacija": "Šmartinska cesta   52",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KOLEKTOR ASCOM d.o.o.": {
+        "lokacija": "Vojkova ulica   10",
+        "pošta": "5280 Idrija",
+        "dejavnost skd": "Proizvodnja elektromotorjev, generatorjev in transformatorjev",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.00294539999999,
+            14.0278459
+        ]
+    },
+    "KOLEKTOR ORODJARNA d.o.o.": {
+        "lokacija": "Vojkova ulica   10",
+        "pošta": "5280 Idrija",
+        "dejavnost skd": "Montaža industrijskih strojev in naprav",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.00294539999999,
+            14.0278459
+        ]
+    },
+    "KOMPAS d.o.o.": {
+        "lokacija": "Dunajska cesta  117",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost organizatorjev potovanj",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KRONOTERM d.o.o.": {
+        "lokacija": "Trnava    5E",
+        "pošta": "3303 Gomilsko",
+        "dejavnost skd": "Proizvodnja drugih strojev in naprav za splošne namene",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "LONSTROFF d.o.o.": {
+        "lokacija": "Obrtna cona Logatec   31",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "MAKRO 5 GRADNJE d.o.o.": {
+        "lokacija": "Obrtniška ulica    5",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Gradnja stanovanjskih in nestanovanjskih stavb",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "MARIFARM d.o.o.": {
+        "lokacija": "Minařikova ulica    8",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Proizvodnja farmacevtskih preparatov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "MDM d.o.o.": {
+        "lokacija": "Brnčičeva ulica   17",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "MEDICOP d.o.o.": {
+        "lokacija": "Nemčavci   81",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Proizvodnja medicinskih instrumentov, naprav in pripomočkov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "MELTAL IS, d.o.o.": {
+        "lokacija": "Gosposvetska cesta   84",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "METRONIK d.o.o.": {
+        "lokacija": "Stegne    9A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MIKROCOP d.o.o.": {
+        "lokacija": "Ulica Ambrožiča Novljana    7",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Obdelava podatkov in s tem povezane dejavnosti",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NEKTAR NATURA d.o.o.": {
+        "lokacija": "Ekslerjeva ulica    8",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Proizvodnja sadnih in zelenjavnih sokov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "NEW YORKER d.o.o.": {
+        "lokacija": "Verovškova ulica   55",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NORKA GT d.o.o.": {
+        "lokacija": "Industrijska ulica    8",
+        "pošta": "2230 LENART V SLOVENSKIH GORICAH",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "NUTRISSLIM d.o.o.": {
+        "lokacija": "Obrtniška ulica    4",
+        "pošta": "1292 Ig",
+        "dejavnost skd": "Proizvodnja homogeniziranih in dietetičnih živil",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "ORKOPLAST d.o.o.": {
+        "lokacija": "PRISTAVICA PRI VELIKEM GABRU   20",
+        "pošta": "8213 Veliki Gaber",
+        "dejavnost skd": "Proizvodnja orodja za stroje",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "PAMI d.o.o. Nova Gorica": {
+        "lokacija": "Vipavska cesta   50",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z obutvijo in usnjenimi izdelki",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "PETEK TRANSPORT, d.o.o., Ribnica": {
+        "lokacija": "Gornje Lepovče   99",
+        "pošta": "1310 Ribnica",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "PLANETA d.o.o. Ljubljana": {
+        "lokacija": "Grška ulica   13",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z medicinskimi in ortopedskimi pripomočki",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PLINOVODI d.o.o.": {
+        "lokacija": "Cesta Ljubljanske brigade   11B",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Cevovodni transport",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PODKRIŽNIK d.o.o.": {
+        "lokacija": "Loke   33",
+        "pošta": "3333 Ljubno ob Savinji",
+        "dejavnost skd": "Proizvodnja ležajev, zobnikov in elementov za mehanski prenos energije",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.3443125,
+            14.8335492
+        ]
+    },
+    "PROTIM RŽIŠNIK PERC d.o.o.": {
+        "lokacija": "Poslovna cona A    2",
+        "pošta": "4208 Šenčur",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2433699,
+            14.4192223
+        ]
+    },
+    "ProPlace d.o.o.": {
+        "lokacija": "Podskrajnik   34",
+        "pošta": "1380 Cerknica",
+        "dejavnost skd": "Proizvodnja elektronskih komponent",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            45.7955099,
+            14.3621843
+        ]
+    },
+    "Puklavec Family Wines d.o.o.": {
+        "lokacija": "Kolodvorska cesta   11",
+        "pošta": "2270 Ormož",
+        "dejavnost skd": "Vinogradništvo",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "RADGONSKE GORICE d.o.o.": {
+        "lokacija": "Jurkovičeva ulica    5",
+        "pošta": "9250 Gornja Radgona",
+        "dejavnost skd": "Vinogradništvo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.6767099,
+            15.9910846
+        ]
+    },
+    "ROLTEK d.o.o.": {
+        "lokacija": "Želodnik   19",
+        "pošta": "1233 Dob",
+        "dejavnost skd": "Vgrajevanje stavbnega pohištva",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "ROTIS d.o.o.": {
+        "lokacija": "Brodišče    5",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Proizvodnja ležajev, zobnikov in elementov za mehanski prenos energije",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "Rexel, d.o.o.": {
+        "lokacija": "Cesta 24. junija    3",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo z drugimi napravami in opremo",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "SCANIA SLOVENIJA d.o.o.": {
+        "lokacija": "Cesta v Gorice   28",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina z drugimi motornimi vozili",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SG AUTOMOTIVE, d.o.o.": {
+        "lokacija": "Industrijska cesta   12",
+        "pošta": "3210 Slovenske Konjice",
+        "dejavnost skd": "Proizvodnja električne in elektronske opreme za motorna vozila",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.3369191,
+            15.4214708
+        ]
+    },
+    "SIJ SUZ d.o.o.": {
+        "lokacija": "Cesta Borisa Kidriča   44",
+        "pošta": "4270 Jesenice",
+        "dejavnost skd": "Hladno vlečenje žice",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.4367047,
+            14.0526057
+        ]
+    },
+    "SIJ ZIP CENTER d.o.o.": {
+        "lokacija": "Koroška cesta   14",
+        "pošta": "2390 Ravne na Koroškem",
+        "dejavnost skd": "Proizvodnja drugega pohištva",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.5448323,
+            14.9660445
+        ]
+    },
+    "SIJ d.d.": {
+        "lokacija": "Gerbičeva ulica   98",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost uprav podjetij",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SLOVENIJALES TRGOVINA d.o.o.": {
+        "lokacija": "Celovška cesta  160",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z lesom, gradbenim materialom in sanitarno opremo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SLOWATCH d.o.o.": {
+        "lokacija": "Podutiška cesta  152",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z urami in nakitom",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "STRABAG d.o.o.": {
+        "lokacija": "Dunajska cesta  155",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Gradnja stanovanjskih in nestanovanjskih stavb",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Strip's d.o.o.": {
+        "lokacija": "KANDRŠE    7",
+        "pošta": "1252 Vače",
+        "dejavnost skd": "Proizvodnja drugih električnih naprav",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "TEGOMETALL OPREMA TRGOVIN, d.o.o.": {
+        "lokacija": "Cesta Kozjanskega odreda   29",
+        "pošta": "3230 Šentjur",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.2157774,
+            15.3945807
+        ]
+    },
+    "TESNILA GK d.o.o.": {
+        "lokacija": "Na produ   97",
+        "pošta": "2391 Prevalje",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz gume",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "TOM TAILOR Lesce d.o.o.": {
+        "lokacija": "Alpska cesta   43",
+        "pošta": "4248 Lesce",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z oblačili",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.3610243,
+            14.1593187
+        ]
+    },
+    "TRANSPAK d.o.o.": {
+        "lokacija": "Noršinska ulica   27",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Proizvodnja strojev za živilsko in tobačno industrijo",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "UNICHEM d.o.o.": {
+        "lokacija": "Sinja Gorica    2",
+        "pošta": "1360 Vrhnika",
+        "dejavnost skd": "Drugje nerazvrščene predelovalne dejavnosti",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            45.966583,
+            14.2973873
+        ]
+    },
+    "VALINA VAROVANJE d.o.o.": {
+        "lokacija": "Litijska cesta   45",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Varovanje",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "VERUDELA d.o.o.": {
+        "lokacija": "Anžurjeva ulica    2D",
+        "pošta": "1260 LJUBLJANA-POLJE",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s tekstilom",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "WUERTH, d.o.o., Trzin, Slovenija": {
+        "lokacija": "Brodišče   25",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Nespecializirano posredništvo pri prodaji raznovrstnih izdelkov",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "ZOD Ljubljana": {
+        "lokacija": "Poljanska cesta   97",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo socialno varstvo brez nastanitve za starejše in invalidne osebe",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "cargo-partner d.o.o.": {
+        "lokacija": "Zgornji Brnik  390",
+        "pošta": "4210 BRNIK",
+        "dejavnost skd": "Špedicija in druge spremljajoče prometne dejavnosti",
+        "št. zaposlenih": "100 do 149 zaposlenih"
+    },
+    "ŠPAN d.o.o.": {
+        "lokacija": "Tržaška cesta  547",
+        "pošta": "1351 Brezovica pri Ljubljani",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "100 do 149 zaposlenih",
+        "Coordinates": [
+            46.0240606,
+            14.4174248
+        ]
+    },
+    "ADRIA d.o.o.": {
+        "lokacija": "Jadranska cesta   25",
+        "pošta": "6280 Ankaran - Ancarano",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.57914359999999,
+            13.7362855
+        ]
+    },
+    "ADRIAL d.o.o.": {
+        "lokacija": "Pod kostanji    6",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Specializirano posredništvo pri prodaji drugih določenih izdelkov",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "AENA d.o.o.": {
+        "lokacija": "Mala Pirešica   20",
+        "pošta": "3301 Petrovče",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "AGENCIJA ZA ENERGIJO": {
+        "lokacija": "Strossmayerjeva ulica   30",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Urejanje gospodarskih področij za učinkovitejše poslovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "AGILEDROP d.o.o.": {
+        "lokacija": "STEGNE 11A",
+        "pošta": "1000 LJUBLJANA",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "APOLLO d.o.o.": {
+        "lokacija": "Puhova ulica   18",
+        "pošta": "2250 Ptuj",
+        "dejavnost skd": "Trgovina na debelo z drugimi izdelki široke porabe",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.4199535,
+            15.8696884
+        ]
+    },
+    "ATAMA, d.o.o.": {
+        "lokacija": "Slovenska cesta   55C",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "AVTO SLAK d.o.o.": {
+        "lokacija": "Obrtniška ulica   51",
+        "pošta": "8210 Trebnje",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.9081708,
+            15.0125985
+        ]
+    },
+    "AVTOSTEKLO d.o.o.": {
+        "lokacija": "Čeplje   50",
+        "pošta": "3305 Vransko",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "Autocommerce, d.o.o.": {
+        "lokacija": "Baragova ulica   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "BAVARSKI STOLP, d.o.o.": {
+        "lokacija": "Slovenska cesta   59",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "BIO PAK, d.o.o.": {
+        "lokacija": "Savska loka   22",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Proizvodnja drugih prehrambenih izdelkov, drugje nerazvrščenih",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "BIOSTILE d.o.o.": {
+        "lokacija": "Komen  129A",
+        "pošta": "6223 Komen",
+        "dejavnost skd": "Proizvodnja drugih prehrambenih izdelkov, drugje nerazvrščenih",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            50.76874590000001,
+            2.9997061
+        ]
+    },
+    "BOBIČ YACHT INTERIOR d.o.o.": {
+        "lokacija": "Podbevškova ulica   29",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Proizvodnja drugega pohištva",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "BRANDSTOCK SERVICES, d.o.o.": {
+        "lokacija": "Cesta v Gorice   34B",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge pravne dejavnosti",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "COCA-COLA HBC SLOVENIJA d.o.o.": {
+        "lokacija": "Brnčičeva ulica   41G",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo s pijačami",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "COOKINOX d.o.o.": {
+        "lokacija": "Stantetova ulica   27",
+        "pošta": "1295 Ivančna Gorica",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.9395841,
+            14.8047626
+        ]
+    },
+    "CVS MOBILE d.d.": {
+        "lokacija": "Ulica Gradnikove brigade   11",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DEKRA ZAPOSLITEV d.o.o.": {
+        "lokacija": "Leskoškova cesta   11",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DELFIN Hotel ZDUS d.o.o. Izola": {
+        "lokacija": "Tomažičeva ulica   10",
+        "pošta": "6310 Izola - Isola",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.5374048,
+            13.6600802
+        ]
+    },
+    "DINIT d.o.o.": {
+        "lokacija": "Industrijska cesta   23",
+        "pošta": "6310 Izola - Isola",
+        "dejavnost skd": "Obdelava podatkov in s tem povezane dejavnosti",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.5374048,
+            13.6600802
+        ]
+    },
+    "DPD d.o.o.": {
+        "lokacija": "Brnčičeva ulica   31",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Druga poštna in kurirska dejavnost",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "DRAGANOVIĆ d.o.o.": {
+        "lokacija": "Cesta ob železnici    4",
+        "pošta": "3310 Žalec",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.251984,
+            15.1650282
+        ]
+    },
+    "Deloitte d.o.o.": {
+        "lokacija": "Dunajska cesta  165",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo podjetniško in poslovno svetovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "EASYTRANS d.o.o.": {
+        "lokacija": "Cesta ob železnici    4",
+        "pošta": "3310 Žalec",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.251984,
+            15.1650282
+        ]
+    },
+    "ECE d.o.o.": {
+        "lokacija": "Vrunčeva ulica    2A",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Trgovanje z električno energijo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "EHO d.o.o.": {
+        "lokacija": "Ložnica pri Žalcu   59",
+        "pošta": "3310 Žalec",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.251984,
+            15.1650282
+        ]
+    },
+    "ERNST & YOUNG d.o.o.": {
+        "lokacija": "Dunajska cesta  111",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Računovodske, knjigovodske in revizijske dejavnosti; davčno svetovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "EUROCOM, d.o.o., Kranj": {
+        "lokacija": "Jelenčeva ulica    1",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Trgovina na debelo z drugimi izdelki široke porabe",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "EVENTUS, Novo mesto, d.o.o.": {
+        "lokacija": "Povhova ulica    1",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Trgovina na debelo z drugimi napravami in opremo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "ErgoPharma d.o.o.": {
+        "lokacija": "Gaji    1",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Proizvodnja drugih prehrambenih izdelkov, drugje nerazvrščenih",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "FERING FAM d.o.o.": {
+        "lokacija": "Ulica Vinka Vodopivca   14",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Mehanska obdelava kovin",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "GB Leasing d.o.o.": {
+        "lokacija": "Dunajska cesta  152",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Specializirano posredništvo pri prodaji drugih določenih izdelkov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GEBRUDER WEISS d.o.o.": {
+        "lokacija": "Celovška cesta  490",
+        "pošta": "1210 LJUBLJANA-ŠENTVID",
+        "dejavnost skd": "Špedicija in druge spremljajoče prometne dejavnosti",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "GENERAL LOGISTICS SYSTEMS d.o.o.": {
+        "lokacija": "Cesta v Prod   84",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druga poštna in kurirska dejavnost",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GO-KO d.o.o.": {
+        "lokacija": "Mlaka pri Kočevju   37",
+        "pošta": "1332 Stara Cerkev",
+        "dejavnost skd": "Prireja mleka",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.670356,
+            14.8396414
+        ]
+    },
+    "HILTI SLOVENIJA d.o.o.": {
+        "lokacija": "Brodišče   18",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Nespecializirano posredništvo pri prodaji raznovrstnih izdelkov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "HNG d.o.o.": {
+        "lokacija": "Prešernova cesta   35",
+        "pošta": "1234 Mengeš",
+        "dejavnost skd": "Gradnja drugih objektov nizke gradnje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.16591220000001,
+            14.5719694
+        ]
+    },
+    "HOEDLMAYR d.o.o.": {
+        "lokacija": "Tovarniška cesta   36",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "Hotel Mons d.o.o.": {
+        "lokacija": "Pot za Brdom    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Hoteli Metropol d.o.o.": {
+        "lokacija": "Obala   77",
+        "pošta": "6320 Portorož - Portorose",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "IMP ARMATURE d.o.o.": {
+        "lokacija": "Ljubljanska cesta   43",
+        "pošta": "1295 Ivančna Gorica",
+        "dejavnost skd": "Proizvodnja pip in ventilov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.9395841,
+            14.8047626
+        ]
+    },
+    "INTEGRAL AVTO d.o.o. Jesenice": {
+        "lokacija": "Cesta maršala Tita   67",
+        "pošta": "4270 Jesenice",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.4367047,
+            14.0526057
+        ]
+    },
+    "INTEREXPORT d.o.o.": {
+        "lokacija": "Potok pri Komendi   12",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "IPROS d.o.o.": {
+        "lokacija": "Drenov Grič    3A",
+        "pošta": "1360 Vrhnika",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.966583,
+            14.2973873
+        ]
+    },
+    "J.U.A. FRISCHEIS d.o.o.": {
+        "lokacija": "Celovška cesta  492",
+        "pošta": "1210 LJUBLJANA-ŠENTVID",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "JELOVICA HIŠE d.o.o.": {
+        "lokacija": "Hrib    1",
+        "pošta": "4205 Preddvor",
+        "dejavnost skd": "Organizacija izvedbe stavbnih projektov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.3017155,
+            14.4216753
+        ]
+    },
+    "JEZERŠEK d.o.o.": {
+        "lokacija": "Sora    1A",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Priložnostna priprava in dostava jedi",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "JSS MOL": {
+        "lokacija": "Zarnikova ulica    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Splošna dejavnost javne uprave",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KIRURŠKI SANATORIJ d.o.o.": {
+        "lokacija": "Rožna dolina, cesta IV   45",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Bolnišnična zdravstvena dejavnost",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KZ LAŠKO z.o.o.": {
+        "lokacija": "Sevce   16A",
+        "pošta": "3272 Rimske Toplice",
+        "dejavnost skd": "Proizvodnja mesnih izdelkov",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "LED LUKS d.o.o.": {
+        "lokacija": "Mednarodni prehod    6",
+        "pošta": "5290 Šempeter pri Gorici",
+        "dejavnost skd": "Proizvodnja naprav in opreme za razsvetljavo",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "LESOPRODUKT d.o.o.": {
+        "lokacija": "Opekarniška cesta    2",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Trgovina na debelo z lesom, gradbenim materialom in sanitarno opremo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "Lumentum d.o.o.": {
+        "lokacija": "Ambruževa ulica    1",
+        "pošta": "1291 Škofljica",
+        "dejavnost skd": "Proizvodnja kablov iz optičnih vlaken",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.98596510000001,
+            14.5721903
+        ]
+    },
+    "M PLUS SLOVENIJA d.o.o.": {
+        "lokacija": "Šmartinska cesta   52",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge z informacijsko tehnologijo in računalniškimi storitvami povezane dejavnosti",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "M&M INTERCOM, d.o.o.": {
+        "lokacija": "Letališka cesta   33F",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MAN Truck & Bus Slovenija d.o.o.": {
+        "lokacija": "Brnčičeva ulica   35",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina z drugimi motornimi vozili",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "MEJA Šentjur, d.d.": {
+        "lokacija": "Cesta Leona Dobrotinška    3",
+        "pošta": "3230 Šentjur",
+        "dejavnost skd": "Gojenje pečkatega in koščičastega sadja",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.2157774,
+            15.3945807
+        ]
+    },
+    "MESARSTVO BLATNIK d.o.o., Ljubljana": {
+        "lokacija": "Selska ulica   46",
+        "pošta": "1291 Škofljica",
+        "dejavnost skd": "Proizvodnja mesa, razen perutninskega",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.98596510000001,
+            14.5721903
+        ]
+    },
+    "MESI d.o.o.": {
+        "lokacija": "Leskoškova cesta   11A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja sevalnih, elektromedicinskih in elektroterapevtskih naprav",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "METVIL d.o.o.": {
+        "lokacija": "Volčja Draga   40",
+        "pošta": "5293 Volčja Draga",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z gradbenim materialom, kovinskimi izdelki, barvami in steklom",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "MLINOSTROJ d.d., Domžale": {
+        "lokacija": "Študljanska cesta    5",
+        "pošta": "1230 Domžale",
+        "dejavnost skd": "Proizvodnja strojev za druge posebne namene",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.1419417,
+            14.5944171
+        ]
+    },
+    "MPG PLUS d.o.o.": {
+        "lokacija": "Leskoškova cesta    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost oglaševalskih agencij",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "NARAYAN d.o.o.": {
+        "lokacija": "Slovenska vas    1C",
+        "pošta": "8261 Jesenice na Dolenjskem",
+        "dejavnost skd": "Proizvodnja olja in maščob",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "NLB Skladi, d.o.o.": {
+        "lokacija": "Tivolska cesta   48",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Upravljanje finančnih skladov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PANVITA KMETIJSTVO d.o.o.": {
+        "lokacija": "Lendavska ulica    5",
+        "pošta": "9000 Murska Sobota",
+        "dejavnost skd": "Proizvodnja krmil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.6581381,
+            16.1610293
+        ]
+    },
+    "PEK AUTOMOTIVE d.o.o.": {
+        "lokacija": "Obrtniška ulica   17",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Proizvodnja strojev za druge posebne namene",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "PERSONAL CENTER d.o.o.": {
+        "lokacija": "Litostrojska cesta   44D",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PIPISTREL d.o.o.": {
+        "lokacija": "Goriška cesta   50A",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja zračnih in vesoljskih plovil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "PJU d.o.o.": {
+        "lokacija": "Letališka cesta   32J",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost oglaševalskih agencij",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PLASTIKA VIRANT d.o.o.": {
+        "lokacija": "Pod hrasti   20",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Proizvodnja embalaže iz plastičnih mas",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "PRAVI RAJ d.o.o.": {
+        "lokacija": "Blatna Brezovica   37",
+        "pošta": "1360 Vrhnika",
+        "dejavnost skd": "Frizerska dejavnost",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.966583,
+            14.2973873
+        ]
+    },
+    "PRECISION RESOURCE SLOVENIJA d.o.o.": {
+        "lokacija": "IOC Zapolje III   16",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Kovanje, stiskanje, vtiskovanje in valjanje kovin; prašna metalurgija",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "Plastik SI d.o.o.": {
+        "lokacija": "Kolodvorska cesta    9",
+        "pošta": "5213 Kanal",
+        "dejavnost skd": "Proizvodnja embalaže iz plastičnih mas",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "RASTODER, d.o.o.": {
+        "lokacija": "Dvorakova ulica    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo s sadjem in zelenjavo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SAVSKE ELEKTRARNE LJUBLJANA d.o.o.": {
+        "lokacija": "Gorenjska cesta   46",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Proizvodnja elektrike v hidroelektrarnah",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "SBS TRGOVINA d.o.o.": {
+        "lokacija": "Dolenjska cesta  320",
+        "pošta": "1291 Škofljica",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z gradbenim materialom, kovinskimi izdelki, barvami in steklom",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.98596510000001,
+            14.5721903
+        ]
+    },
+    "SCHINDLER SLOVENIJA d.o.o.": {
+        "lokacija": "Grška ulica   13",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo inštaliranje pri gradnjah",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SENČILA MEDLE d.o.o.": {
+        "lokacija": "Podbevškova ulica   31",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Proizvodnja končnih tekstilnih izdelkov, razen oblačil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "SICO d.o.o.": {
+        "lokacija": "Arja vas  104",
+        "pošta": "3301 Petrovče",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "SPINTEC d.o.o.": {
+        "lokacija": "Volčja Draga   43D",
+        "pošta": "5293 Volčja Draga",
+        "dejavnost skd": "Proizvodnja drugih električnih naprav",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "SRC Infonet d.o.o.": {
+        "lokacija": "Cesta na Okroglo    7",
+        "pošta": "4202 Naklo",
+        "dejavnost skd": "Svetovanje o računalniških napravah in programih",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.2718663,
+            14.3156932
+        ]
+    },
+    "SeneCura Central SI d.o.o.": {
+        "lokacija": "Juhantova pot    9",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "SeneCura Hoče - Slivnica d.o.o.": {
+        "lokacija": "Polanska cesta    7",
+        "pošta": "2312 Orehova vas",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.4716256,
+            15.6673756
+        ]
+    },
+    "SeneCura Maribor d.o.o.": {
+        "lokacija": "Cesta Osvobodilne fronte   43",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "SeneCura Radenci d.o.o.": {
+        "lokacija": "Prisojna cesta    4A",
+        "pošta": "9252 Radenci",
+        "dejavnost skd": "Dejavnost nastanitvenih ustanov za oskrbo starejših in invalidnih oseb",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.6439196,
+            16.0402676
+        ]
+    },
+    "Shoppster d.o.o.": {
+        "lokacija": "Brnčičeva ulica   49A",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na drobno po pošti ali po internetu",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "Silgan Ljubljana d.o.o.": {
+        "lokacija": "Agrokombinatska cesta   61",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja lahke kovinske embalaže",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Sparkasse Pay d.o.o.": {
+        "lokacija": "Ameriška ulica    2",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo kreditiranje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Styria digital marketplaces, d.o.o.": {
+        "lokacija": "Verovškova ulica   55",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Obratovanje spletnih portalov",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Swixx Biopharma d.o.o.": {
+        "lokacija": "Pot k sejmišču   35",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo s farmacevtskimi izdelki ter medicinskimi potrebščinami in materiali",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "TAB-IPM d.o.o.": {
+        "lokacija": "Žerjav   79",
+        "pošta": "2393 Črna na Koroškem",
+        "dejavnost skd": "Pakiranje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.4703983,
+            14.8498787
+        ]
+    },
+    "TERME RESORT d.o.o.": {
+        "lokacija": "Toplice   10",
+        "pošta": "3272 Rimske Toplice",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "TO-MA PALETE, d.o.o.": {
+        "lokacija": "Litijska cesta  261",
+        "pošta": "1261 LJUBLJANA-DOBRUNJE",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "TOYOTA CENTER LJUBLJANA d.o.o.": {
+        "lokacija": "Leskoškova cesta    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TT OKROGLICA d.o.o.": {
+        "lokacija": "Dombrava    1",
+        "pošta": "5293 Volčja Draga",
+        "dejavnost skd": "Proizvodnja tehničnega in industrijskega tekstila",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "Trgo ABC d.o.o.": {
+        "lokacija": "Istrska cesta   12",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "UNI&FORMA d.o.o.": {
+        "lokacija": "Pod topoli    4",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Proizvodnja drugih vrhnjih oblačil",
+        "št. zaposlenih": "50 do 99 zaposlenih"
+    },
+    "UNIJA d.o.o.": {
+        "lokacija": "Tržaška cesta  515",
+        "pošta": "1351 Brezovica pri Ljubljani",
+        "dejavnost skd": "Računovodske, knjigovodske in revizijske dejavnosti; davčno svetovanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0240606,
+            14.4174248
+        ]
+    },
+    "UVECTO d.o.o.": {
+        "lokacija": "Kovinarska cesta    4",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Trgovina na drobno po pošti ali po internetu",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "Walstead Leykam tiskarna d.o.o.": {
+        "lokacija": "Miklavška cesta   61",
+        "pošta": "2311 Hoče",
+        "dejavnost skd": "Drugo tiskanje",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.477858,
+            15.6476005
+        ]
+    },
+    "ZAVAS d.o.o.": {
+        "lokacija": "Špruha   19",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "ZZS": {
+        "lokacija": "Dunajska cesta  162",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost poslovnih in delodajalskih združenj",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ŠDL": {
+        "lokacija": "Svetčeva ulica    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost dijaških in študentskih domov ter druge nastanitve",
+        "št. zaposlenih": "50 do 99 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ABB d.o.o.": {
+        "lokacija": "Brnčičeva ulica   19G",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Specializirano posredništvo pri prodaji drugih določenih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "ADMIRAL d.o.o. ADMIRAL Gmbh": {
+        "lokacija": "Bazoviška cesta   23",
+        "pošta": "6240 Kozina",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.60927969999999,
+            13.9371957
+        ]
+    },
+    "AKTIVA UPRAVLJANJE d.o.o.": {
+        "lokacija": "Letališka cesta   33",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Upravljanje nepremičnin za plačilo ali po pogodbi",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "AKTON d.o.o.": {
+        "lokacija": "Dunajska cesta    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge telekomunikacijske dejavnosti",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ALEATORIUM d.o.o.": {
+        "lokacija": "Ljubljanska cesta   65",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Dejavnost igralnic",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "ALTERNA DISTRIBUCIJA d.o.o.": {
+        "lokacija": "Dunajska cesta  151",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z računalniškimi napravami",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "AP GOST d.o.o.": {
+        "lokacija": "Stegne   11A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Okrepčevalnice in podobni obrati",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ASTRAEA d.o.o.": {
+        "lokacija": "Lipica   23A",
+        "pošta": "6210 Sežana",
+        "dejavnost skd": "Dejavnost igralnic",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.7093519,
+            13.8738185
+        ]
+    },
+    "AULA d.o.o.": {
+        "lokacija": "Cesta v hrib   20",
+        "pošta": "1210 LJUBLJANA-ŠENTVID",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "AVTO KOLETNIK d.o.o.": {
+        "lokacija": "Kraljeviča Marka ulica   15B",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "AVTOCENTER ŽGAJNAR d.o.o.": {
+        "lokacija": "Obrtna cesta   22",
+        "pošta": "1291 Škofljica",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.98596510000001,
+            14.5721903
+        ]
+    },
+    "BALAVTO d.o.o. Ajdovščina": {
+        "lokacija": "Tovarniška cesta    5B",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Trgovina na debelo z rudarskimi in gradbenimi stroji",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "BASS d.o.o., Celje": {
+        "lokacija": "Ulica XIV. divizije   14",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "BE HEALTHY d.o.o.": {
+        "lokacija": "Ulica Mirka Vadnova    7",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Trgovina na drobno po pošti ali po internetu",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "BENUSSI d.o.o.": {
+        "lokacija": "Cvetkova ulica    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "BID d.o.o.": {
+        "lokacija": "Tacenska cesta   95",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "BORZEN, d.o.o.": {
+        "lokacija": "Dunajska cesta  156",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Upravljanje finančnih trgov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Blubit d.o.o.": {
+        "lokacija": "Jalnova ulica   70",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Obdelava podatkov in s tem povezane dejavnosti",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "CORDIA d.o.o.": {
+        "lokacija": "Finžgarjeva ulica   15",
+        "pošta": "1215 Medvode",
+        "dejavnost skd": "Trgovina z drugimi motornimi vozili",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1413926,
+            14.411347
+        ]
+    },
+    "CORWIN SI d.o.o.": {
+        "lokacija": "Dunajska cesta  155",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Organizacija izvedbe stavbnih projektov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "CST d.o.o.": {
+        "lokacija": "Koštialova ulica   32",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "Continental Adria d.o.o.": {
+        "lokacija": "Zagrebška cesta  104",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Nespecializirano posredništvo pri prodaji raznovrstnih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "D.S.U., d.o.o.": {
+        "lokacija": "Dunajska cesta  160",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost holdingov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "DOPOS d.o.o.": {
+        "lokacija": "Beričevo   41B",
+        "pošta": "1262 Dol pri Ljubljani",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0884386,
+            14.6424792
+        ]
+    },
+    "DVERI-PAX d.o.o.": {
+        "lokacija": "Polički Vrh    1",
+        "pošta": "2221 Jarenina",
+        "dejavnost skd": "Vinogradništvo",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "Damatech d.o.o.": {
+        "lokacija": "Cesta Franceta Prešerna   63",
+        "pošta": "4270 Jesenice",
+        "dejavnost skd": "Mehanska obdelava kovin",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.4367047,
+            14.0526057
+        ]
+    },
+    "ECHO CENTER d.o.o.": {
+        "lokacija": "Barjanska cesta   58",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost klicnih centrov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ELPA d.o.o.": {
+        "lokacija": "Paka pri Velenju   39D",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Proizvodnja dvigalnih in transportnih naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "EMRAX d.o.o.": {
+        "lokacija": "Molkova pot    5",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "ESPADA d.o.o.": {
+        "lokacija": "Ljubljanska cesta   13D",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "EUROGARDEN d.o.o.": {
+        "lokacija": "Podsmreka    7B",
+        "pošta": "1356 Dobrova",
+        "dejavnost skd": "Trgovina na debelo s kmetijskimi stroji, priključki, opremo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0537894,
+            14.4142209
+        ]
+    },
+    "EUROSENDER d.o.o.": {
+        "lokacija": "Cesta v Gorice   34B",
+        "pošta": "1000 LJUBLJANA",
+        "dejavnost skd": "Dejavnost oglaševalskih agencij",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "EVINO d.o.o.": {
+        "lokacija": "Šmartinska cesta   53",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pijačami",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Eligma d.o.o.": {
+        "lokacija": "Letališka cesta   33F",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Obratovanje spletnih portalov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Europa 92 d.o.o., podružnica v Sloveniji": {
+        "lokacija": "Moskovska ulica    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredništvo pri prodaji tekstila, oblačil, krzna, obutve, usnjenih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Express One Slovenia d.o.o.": {
+        "lokacija": "Pod lipami   21",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Druga poštna in kurirska dejavnost",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "FAMAR d.o.o.": {
+        "lokacija": "Limbuška cesta    2",
+        "pošta": "2341 Limbuš",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz papirja in kartona",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "FARME IHAN - KPM d.o.o.": {
+        "lokacija": "Korenova cesta    9",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Prašičereja",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "FINES d.o.o.": {
+        "lokacija": "Industrijska cesta    5",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Proizvodnja peči in gorilnikov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "FORCH d.o.o.": {
+        "lokacija": "Ljubljanska cesta   51A",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Posredništvo pri prodaji strojev, industrijske opreme, ladij, letal",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "FRIDRO d.o.o.": {
+        "lokacija": "Obrtniška ulica   12",
+        "pošta": "2360 Radlje ob Dravi",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.614358,
+            15.2255472
+        ]
+    },
+    "Fertech d.o.o.": {
+        "lokacija": "Kraška ulica    4",
+        "pošta": "6210 Sežana",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.7093519,
+            13.8738185
+        ]
+    },
+    "GORENJE GTI, d.o.o.": {
+        "lokacija": "Partizanska cesta   12",
+        "pošta": "3320 Velenje",
+        "dejavnost skd": "Nespecializirana trgovina na debelo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.3622743,
+            15.1106582
+        ]
+    },
+    "GOSPODARSKO RAZSTAVIŠČE d.o.o.": {
+        "lokacija": "Dunajska cesta   18",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Organiziranje razstav, sejmov, srečanj",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GOSTINSKO PODJETJE KRANJ, d.o.o.": {
+        "lokacija": "Cesta 1. maja    1A",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "GUARDIARIS d.o.o.": {
+        "lokacija": "Kamniška ulica   39A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "GUBANC, d.o.o.": {
+        "lokacija": "Koroška cesta   92",
+        "pošta": "4290 Tržič",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.3593514,
+            14.3006623
+        ]
+    },
+    "HENNLICH d.o.o.": {
+        "lokacija": "Ulica Mirka Vadnova   13",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Trgovina na debelo z drugimi napravami in opremo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "HFDI d.o.o.": {
+        "lokacija": "Miklošičeva cesta   18",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s pohištvom, svetili in drugje nerazvrščenimi predmeti za gospodinjstvo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "HPE, d.o.o.": {
+        "lokacija": "Dolenjska cesta   83",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Montaža industrijskih strojev in naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "IGRALNI SALON KARNEVAL d.o.o. CASINO CARNEVALE s.r.l.": {
+        "lokacija": "Spodnje Škofije  259",
+        "pošta": "6281 Škofije",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.5716262,
+            13.8022123
+        ]
+    },
+    "IMP, d.d.": {
+        "lokacija": "Dunajska cesta    7",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "IMPERA d.o.o.": {
+        "lokacija": "Motnica    9",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "INCLUB d.o.o. Nova Gorica": {
+        "lokacija": "Bevkov trg    6",
+        "pošta": "5000 Nova Gorica",
+        "dejavnost skd": "Dejavnost igralnic",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9549755,
+            13.6493044
+        ]
+    },
+    "INDENNA DVIGALA d.o.o.": {
+        "lokacija": "Prevale    7",
+        "pošta": "1236 Trzin",
+        "dejavnost skd": "Proizvodnja dvigalnih in transportnih naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1314634,
+            14.56125
+        ]
+    },
+    "Iskra Medical, d.o.o.": {
+        "lokacija": "Stegne    3",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja medicinskih instrumentov, naprav in pripomočkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Iustitia d.o.o.": {
+        "lokacija": "Miklošičeva cesta   38",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo s tobačnimi izdelki",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KAZA SISTEMI d.o.o.": {
+        "lokacija": "Trpinčeva ulica   37A",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Inštaliranje vodovodnih, plinskih in ogrevalnih napeljav in naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KEFO d.o.o.": {
+        "lokacija": "Brnčičeva ulica   31",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo s farmacevtskimi izdelki ter medicinskimi potrebščinami in materiali",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "KELE & KELE, d.o.o.": {
+        "lokacija": "Laze   22A",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Mlekarstvo in sirarstvo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "KLIMA BELEHAR d.o.o.": {
+        "lokacija": "Savska loka   21",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Inštaliranje vodovodnih, plinskih in ogrevalnih napeljav in naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "KOLMAN d.o.o.": {
+        "lokacija": "Zelena pot   10",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "KONGO HOTEL & CASINO d.o.o.": {
+        "lokacija": "Ljubljanska cesta   65",
+        "pošta": "1290 Grosuplje",
+        "dejavnost skd": "Začasni gostinski obrati",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9557645,
+            14.658899
+        ]
+    },
+    "KOTA d.o.o. Petrovče": {
+        "lokacija": "Petrovče  237",
+        "pošta": "3301 Petrovče",
+        "dejavnost skd": "Proizvodnja hladilnih in prezračevalnih naprav, razen za gospodinjstva",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "Komunala Odtok d.o.o.": {
+        "lokacija": "Tržaška cesta   39",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Tehnično preizkušanje in analiziranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "LAMITEX d.o.o.": {
+        "lokacija": "Kidričeva ulica    6A",
+        "pošta": "2380 Slovenj Gradec",
+        "dejavnost skd": "Dodelava tekstilij",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5075851,
+            15.0768162
+        ]
+    },
+    "LASERTEHNIK MARFIN, d.o.o.": {
+        "lokacija": "Cesta k Tamu   57",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Mehanska obdelava kovin",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "LEANPAY d.o.o.": {
+        "lokacija": "Bravničarjeva ulica   13",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo kreditiranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "LEATHER & SHOE INTERNATIONAL d.o.o.": {
+        "lokacija": "Pobreška cesta   18",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z obutvijo in usnjenimi izdelki",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "LEDO d.o.o.": {
+        "lokacija": "Brnčičeva ulica   45",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo z mlekom, mlečnimi izdelki, jajci, jedilnimi olji in maščobami",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "LMM PROFESIONAL d.o.o.": {
+        "lokacija": "IOC Zapolje I   31",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Trgovina na debelo z drugimi izdelki široke porabe",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    },
+    "LOGISTIKA JERMAN ML, d.o.o.": {
+        "lokacija": "Zapoge   40A",
+        "pošta": "1217 Vodice",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            43.7611122,
+            15.7787599
+        ]
+    },
+    "MAKOMA, d.o.o.": {
+        "lokacija": "Rumanja vas   51A",
+        "pošta": "8351 STRAŽA",
+        "dejavnost skd": "Trgovina z avtomobili in lahkimi motornimi vozili",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "METALLUM ZORMAN d.o.o.": {
+        "lokacija": "Preradovičeva ulica   22",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Gradnja objektov oskrbne infrastrukture za tekočine in pline",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "MOGOTEL Ljubljana d.o.o.": {
+        "lokacija": "Miklošičeva cesta    9",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "MP Ferum, d.o.o.": {
+        "lokacija": "Puhova ulica   25",
+        "pošta": "2250 Ptuj",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.4199535,
+            15.8696884
+        ]
+    },
+    "Marketing Investment Group SL, d.o.o.": {
+        "lokacija": "Tržaška cesta  515",
+        "pošta": "1351 Brezovica pri Ljubljani",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah z obutvijo in usnjenimi izdelki",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0240606,
+            14.4174248
+        ]
+    },
+    "NAUTIC SERVICE DVIGAL d.o.o.": {
+        "lokacija": "Sermin   71H",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "NGEN d.o.o.": {
+        "lokacija": "Moste  101",
+        "pošta": "4274 Žirovnica",
+        "dejavnost skd": "Računalniško programiranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.4044239,
+            14.1375549
+        ]
+    },
+    "NOVOMAT d.o.o.": {
+        "lokacija": "Valvasorjeva ulica   85",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "OPTIPRINT, d.o.o.": {
+        "lokacija": "Kranjčeva ulica   20",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dajanje pisarniške opreme in računalniških naprav v najem in zakup",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ORO ORODJARNA d.o.o.": {
+        "lokacija": "Neverke   31",
+        "pošta": "6256 Košana",
+        "dejavnost skd": "Proizvodnja orodja za stroje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            26.4482425,
+            73.6324345
+        ]
+    },
+    "ORODJARSTVO KNIFIC d.o.o.": {
+        "lokacija": "Cesta na Okroglo    5A",
+        "pošta": "4202 Naklo",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih kovinskih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2718663,
+            14.3156932
+        ]
+    },
+    "Organa d.o.o.": {
+        "lokacija": "Podgorica   25",
+        "pošta": "1312 VIDEM-DOBREPOLJE",
+        "dejavnost skd": "Druga predelava in konzerviranje sadja in zelenjave",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "PANTEON GROUP d.o.o.": {
+        "lokacija": "Vojkovo nabrežje   30A",
+        "pošta": "6000 Koper - Capodistria",
+        "dejavnost skd": "Svetovanje o računalniških napravah in programih",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.54805899999999,
+            13.7301877
+        ]
+    },
+    "PARKELJ d.o.o.": {
+        "lokacija": "Volavlje    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Vzdrževanje in popravila motornih vozil",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "PITUS d.o.o.": {
+        "lokacija": "Ob Dravi    2A",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na debelo s sadjem in zelenjavo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "PLAMTEX INT., d.o.o.": {
+        "lokacija": "Pod bukvami    8",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz plastičnih mas",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "PLAN-NET SOLAR d.o.o.": {
+        "lokacija": "Kamnik pod Krimom    8B",
+        "pošta": "1352 Preserje",
+        "dejavnost skd": "Inštaliranje električnih napeljav in naprav",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9560556,
+            14.4178663
+        ]
+    },
+    "PROMISUM d.o.o.": {
+        "lokacija": "Mirce   22",
+        "pošta": "5270 Ajdovščina",
+        "dejavnost skd": "Proizvodnja drugje nerazvrščenih tekstilij",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.8869025,
+            13.909914
+        ]
+    },
+    "PRŠUTARNA S' KRASA d.o.o.": {
+        "lokacija": "Lokev    9",
+        "pošta": "6219 Lokev",
+        "dejavnost skd": "Proizvodnja mesnih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.6609225,
+            13.928096
+        ]
+    },
+    "Rudolfovo": {
+        "lokacija": "Podbreznik   15",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "SAINT-GOBAIN GRADBENI IZDELKI d.o.o.": {
+        "lokacija": "Cvetkova ulica    1",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z lesom, gradbenim materialom in sanitarno opremo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SALAX, d.o.o.": {
+        "lokacija": "Pod topoli    8",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "SGERM d.o.o.": {
+        "lokacija": "Beloruska ulica    7",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Trgovina na drobno v specializiranih prodajalnah s telekomunikacijskimi napravami",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "SILCO, d.o.o.": {
+        "lokacija": "Šentrupert    5A",
+        "pošta": "3303 Gomilsko",
+        "dejavnost skd": "Proizvodnja barv, lakov in podobnih premazov, tiskarskih barv in kitov",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "SIMER PLUS d.o.o.": {
+        "lokacija": "Kosova ulica   27",
+        "pošta": "3000 Celje",
+        "dejavnost skd": "Raziskovalna in razvojna dejavnost na drugih področjih naravoslovja in tehnologije",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.23974949999999,
+            15.2677063
+        ]
+    },
+    "SKI & SEA, d.o.o.": {
+        "lokacija": "Ob Savinji   12",
+        "pošta": "3313 Polzela",
+        "dejavnost skd": "Nespecializirano posredništvo pri prodaji raznovrstnih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.280897,
+            15.0737321
+        ]
+    },
+    "SKUBA Slovenija d.o.o.": {
+        "lokacija": "Slovenčeva ulica   97",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo z rezervnimi deli in opremo za motorna vozila",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SOFINA d.o.o.": {
+        "lokacija": "Derčeva ulica    4",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "SONET PLUS d.o.o.": {
+        "lokacija": "Kidričeva cesta  101",
+        "pošta": "4220 Škofja Loka",
+        "dejavnost skd": "Mehanska obdelava kovin",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.1671294,
+            14.3058337
+        ]
+    },
+    "STANOVANJSKI SKLAD RS": {
+        "lokacija": "Poljanska cesta   31",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Drugo kreditiranje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "STEN d.o.o.": {
+        "lokacija": "Sneberska cesta  111B",
+        "pošta": "1260 LJUBLJANA-POLJE",
+        "dejavnost skd": "Nespecializirano posredništvo pri prodaji raznovrstnih izdelkov",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "Solchem d.o.o.": {
+        "lokacija": "Tovarniška ulica   48",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina na debelo s kemičnimi izdelki",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "Solis Timber d.o.o.": {
+        "lokacija": "Na žago    6",
+        "pošta": "8351 STRAŽA",
+        "dejavnost skd": "Žaganje, skobljanje in impregniranje lesa",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "SŽ - PP Ljubljana d.d.": {
+        "lokacija": "Ukmarjeva ulica    6",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Druge inženirske dejavnosti in tehnično svetovanje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TBS TEAM 24 d.o.o.": {
+        "lokacija": "Ulica Eve Lovše    7",
+        "pošta": "2000 Maribor",
+        "dejavnost skd": "Drugje nerazvrščene strokovne in tehnične dejavnosti",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    "TC MOTO SHOP d.o.o.": {
+        "lokacija": "Leskoškova cesta   12",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Trgovina, vzdrževanje in popravila motornih koles; trgovina z njihovimi deli in opremo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TEHROL d.o.o.": {
+        "lokacija": "Pod javorji    3",
+        "pošta": "1218 Komenda",
+        "dejavnost skd": "Vgrajevanje stavbnega pohištva",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "TELKOM-OT d.o.o.": {
+        "lokacija": "Pesnica pri Mariboru   20A",
+        "pošta": "2211 Pesnica pri Mariboru",
+        "dejavnost skd": "Proizvodnja orodja za stroje",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "TERME SNOVIK - KAMNIK, d.o.o.": {
+        "lokacija": "Molkova pot    6A",
+        "pošta": "1241 Kamnik",
+        "dejavnost skd": "Dejavnost hotelov in podobnih nastanitvenih obratov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2221964,
+            14.6072968
+        ]
+    },
+    "TINDE d.o.o.": {
+        "lokacija": "Prijateljeva cesta   12",
+        "pošta": "8210 Trebnje",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9081708,
+            15.0125985
+        ]
+    },
+    "TIPS MTC d.o.o.": {
+        "lokacija": "Ulica 11. novembra   61",
+        "pošta": "8273 Leskovec pri Krškem",
+        "dejavnost skd": "Proizvodnja kovinskih konstrukcij in njihovih delov",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.9402271,
+            15.4773182
+        ]
+    },
+    "TISK ŠEPIC d.o.o.": {
+        "lokacija": "Livada   14",
+        "pošta": "8000 Novo mesto",
+        "dejavnost skd": "Priprava za tisk in objavo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.80108240000001,
+            15.1710089
+        ]
+    },
+    "TORSO d.o.o., LJUBLJANA": {
+        "lokacija": "Ciril-Metodov trg   18",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Restavracije in gostilne",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "TS LAB d.o.o.": {
+        "lokacija": "Ulica Goce Delčeva   20",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Proizvodnja drugih prehrambenih izdelkov, drugje nerazvrščenih",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "VELIKA PLANINA, d.o.o.": {
+        "lokacija": "Kamniška Bistrica    2",
+        "pošta": "1242 Stahovica",
+        "dejavnost skd": "Obratovanje žičnic",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2699842,
+            14.6062056
+        ]
+    },
+    "VETO d.o.o.": {
+        "lokacija": "Brnčičeva ulica   25",
+        "pošta": "1231 LJUBLJANA-ČRNUČE",
+        "dejavnost skd": "Trgovina na debelo s kovinskimi proizvodi, inštalacijskim materialom, napravami za ogrevanje",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "VPD, Bled, d.o.o.": {
+        "lokacija": "Pot na Lisice    4",
+        "pošta": "4260 Bled",
+        "dejavnost skd": "Trgovina na debelo s farmacevtskimi izdelki ter medicinskimi potrebščinami in materiali",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.3683266,
+            14.1145798
+        ]
+    },
+    "VSŠ Bled": {
+        "lokacija": "Prešernova cesta   32",
+        "pošta": "4260 Bled",
+        "dejavnost skd": "Višješolsko izobraževanje",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.3683266,
+            14.1145798
+        ]
+    },
+    "WOOD TECH d.o.o.": {
+        "lokacija": "Partizanska cesta  129B",
+        "pošta": "6210 Sežana",
+        "dejavnost skd": "Proizvodnja drugih izdelkov iz lesa, plute, slame in protja",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.7093519,
+            13.8738185
+        ]
+    },
+    "Wolt d.o.o. Ljubljana": {
+        "lokacija": "Parmova ulica   53",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Dejavnost stikov z javnostjo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ZEUS DAVKI IN RAČUNOVODSTVO d.o.o.": {
+        "lokacija": "Letališka cesta   33E",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Posredovanje začasne delovne sile",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ZUMIKS TRANS d.o.o.": {
+        "lokacija": "Letališka cesta   16",
+        "pošta": "1000 Ljubljana",
+        "dejavnost skd": "Cestni tovorni promet",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    },
+    "ZUPANC D.O.O.": {
+        "lokacija": "Dolenja vas   70",
+        "pošta": "4227 Selca",
+        "dejavnost skd": "Proizvodnja kuhinjskega pohištva",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2240772,
+            14.2032791
+        ]
+    },
+    "ZUUM d.o.o.": {
+        "lokacija": "Hrastje   52K",
+        "pošta": "4000 Kranj",
+        "dejavnost skd": "Proizvodnja igrač in rekvizitov za igre in zabavo",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            46.2428344,
+            14.3555417
+        ]
+    },
+    "eVersum technologies, d.o.o.": {
+        "lokacija": "Limbuška cesta    2",
+        "pošta": "2341 Limbuš",
+        "dejavnost skd": "Proizvodnja motornih vozil",
+        "št. zaposlenih": "20 do 49 zaposlenih"
+    },
+    "ŠUŠTERŠIČ d.o.o., Logatec": {
+        "lokacija": "Tržaška cesta   33",
+        "pošta": "1370 Logatec",
+        "dejavnost skd": "Postavljanje ostrešij in krovska dela",
+        "št. zaposlenih": "20 do 49 zaposlenih",
+        "Coordinates": [
+            45.917611,
+            14.2351451
+        ]
+    }
+}
