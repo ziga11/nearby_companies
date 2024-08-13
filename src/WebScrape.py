@@ -9,8 +9,11 @@ import os
 import pandas as pd
 import numpy as np
 from pathlib import Path
+from dotenv import load_dotenv
 
 session = requests.Session()
+
+load_dotenv()
 
 
 def fetch_content(url, retries=3):
@@ -49,7 +52,8 @@ class Recruitly:
             EC.presence_of_element_located((By.NAME, "password"))
         ).send_keys(PASSWORD)
 
-        self.driver.find_element(By.CSS_SELECTOR, "button[type='submit']").click()
+        self.driver.find_element(
+            By.CSS_SELECTOR, "button[type='submit']").click()
 
     def xlsx_to_json(self, xlsx_file):
         df = pd.read_excel(xlsx_file)
@@ -121,9 +125,11 @@ class Recruitly:
 
         parent_element = desired_filter.find_element(By.XPATH, "../..")
 
-        next_sibling = parent_element.find_element(By.XPATH, "following-sibling::*[1]")
+        next_sibling = parent_element.find_element(
+            By.XPATH, "following-sibling::*[1]")
         next_sibling.find_element(By.TAG_NAME, "a").click()
-        tags = self.driver.find_elements(By.CSS_SELECTOR, "li.ms-elem-selectable")
+        tags = self.driver.find_elements(
+            By.CSS_SELECTOR, "li.ms-elem-selectable")
         for tag in tags:
             tag.click()
         self.driver.find_element(

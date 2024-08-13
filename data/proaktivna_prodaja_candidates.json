@@ -1,0 +1,68 @@
+[
+    {
+        "email": null,
+        "Candidate Id": "CA-104915",
+        "First Name": "Hasan",
+        "Surname": "Osmanović",
+        "Address": null,
+        "Coordinates": [
+            40.8982305,
+            29.3598782
+        ]
+    },
+    {
+        "email": null,
+        "Candidate Id": "CA-104912",
+        "First Name": "Alenka",
+        "Surname": "Špilak",
+        "Address": null,
+        "Coordinates": [
+            46.5546503,
+            15.6458812
+        ]
+    },
+    {
+        "email": null,
+        "Candidate Id": "CA-104660",
+        "First Name": "Marijan",
+        "Surname": "Popovski",
+        "Address": null,
+        "Coordinates": [
+            41.9981294,
+            21.4254355
+        ]
+    },
+    {
+        "email": null,
+        "Candidate Id": "CA-102789",
+        "First Name": "Simon",
+        "Surname": "Trstenjak",
+        "Address": null,
+        "Coordinates": [
+            46.40723,
+            16.149269
+        ]
+    },
+    {
+        "email": null,
+        "Candidate Id": "CA-101655",
+        "First Name": "Sadija",
+        "Surname": "Burnić",
+        "Address": null,
+        "Coordinates": [
+            46.3782836,
+            15.0461378
+        ]
+    },
+    {
+        "email": null,
+        "Candidate Id": "CA-95687",
+        "First Name": "Peter",
+        "Surname": "Bizjak",
+        "Address": null,
+        "Coordinates": [
+            46.0569465,
+            14.5057515
+        ]
+    }
+]

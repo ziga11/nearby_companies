@@ -69,9 +69,9 @@ class QuadTree:
         if not self.boundary.intersects(range_rect):
             return
 
-        for job in self.children:
-            if range_rect.contains(job):
-                found.append(job)
+        for company in self.children:
+            if range_rect.contains(company):
+                found.append(company)
 
         if self.divided:
             self.nw.query(range_rect, found)
